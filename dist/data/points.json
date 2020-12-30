@@ -1,0 +1,221 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:4326"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          85.538378590717997,
+          27.620733504626514
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          85.53806331213471,
+          27.620305201645451
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          85.538301258235308,
+          27.619918539231993
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          85.538955610011925,
+          27.619737105330294
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          85.539220325048916,
+          27.619231469866545
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          85.538637357102473,
+          27.618553323479865
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          85.538298283909143,
+          27.618719885750277
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          85.538331001497966,
+          27.619163060362627
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          85.537884852559344,
+          27.61985905270685
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          85.537703418657642,
+          27.619511056534741
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          85.537789674119111,
+          27.618725834402799
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          85.537581471281072,
+          27.617893023050737
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          85.538253669015234,
+          27.617916817660795
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          85.538857457245484,
+          27.617949535249625
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Id" : 0
+      }
+    }
+  ]
+}

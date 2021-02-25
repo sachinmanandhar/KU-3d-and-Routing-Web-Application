@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "buildin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FID": 0, "Id": 0, "Point_name": "KU gate" }, "geometry": { "type": "Point", "coordinates": [ 85.538345831516182, 27.620672240056468 ] } },
+{ "type": "Feature", "properties": { "FID": 1, "Id": 0, "Point_name": "Pelton Turbine" }, "geometry": { "type": "Point", "coordinates": [ 85.53808313902114, 27.620329597671628 ] } },
+{ "type": "Feature", "properties": { "FID": 2, "Id": 0, "Point_name": "Triangular Garden" }, "geometry": { "type": "Point", "coordinates": [ 85.538294435158463, 27.619932703575856 ] } },
+{ "type": "Feature", "properties": { "FID": 3, "Id": 0, "Point_name": "KU corner" }, "geometry": { "type": "Point", "coordinates": [ 85.538305856571284, 27.619707130672506 ] } },
+{ "type": "Feature", "properties": { "FID": 4, "Id": 0, "Point_name": "KU Admin" }, "geometry": { "type": "Point", "coordinates": [ 85.538565693713124, 27.619867030452095 ] } },
+{ "type": "Feature", "properties": { "FID": 5, "Id": 0, "Point_name": "Block 10" }, "geometry": { "type": "Point", "coordinates": [ 85.53794893742041, 27.619964112461133 ] } },
+{ "type": "Feature", "properties": { "FID": 6, "Id": 0, "Point_name": "Multipurpose Hall road" }, "geometry": { "type": "Point", "coordinates": [ 85.53780616976006, 27.619667155727605 ] } },
+{ "type": "Feature", "properties": { "FID": 7, "Id": 0, "Point_name": "Block 9" }, "geometry": { "type": "Point", "coordinates": [ 85.53874558096517, 27.620181119304863 ] } },
+{ "type": "Feature", "properties": { "FID": 8, "Id": 0, "Point_name": "Civil Department" }, "geometry": { "type": "Point", "coordinates": [ 85.537734785929885, 27.619117024343048 ] } },
+{ "type": "Feature", "properties": { "FID": 9, "Id": 0, "Point_name": "Boys Hostel" }, "geometry": { "type": "Point", "coordinates": [ 85.537098042164743, 27.617672215620303 ] } },
+{ "type": "Feature", "properties": { "FID": 10, "Id": 0, "Point_name": "Bus Park" }, "geometry": { "type": "Point", "coordinates": [ 85.537615812879608, 27.617870186775988 ] } },
+{ "type": "Feature", "properties": { "FID": 11, "Id": 0, "Point_name": "Fountain" }, "geometry": { "type": "Point", "coordinates": [ 85.538576929552747, 27.618716374905208 ] } },
+{ "type": "Feature", "properties": { "FID": 12, "Id": 12, "Point_name": "inge" }, "geometry": { "type": "Point", "coordinates": [ 85.539292100022763, 27.620026610880799 ] } },
+{ "type": "Feature", "properties": { "FID": 12, "Id": 12, "Point_name": "TTL" }, "geometry": { "type": "Point", "coordinates": [ 85.539488635419104, 27.619835534801023 ] } },
+{ "type": "Feature", "properties": { "FID": 13, "Id": 13, "Point_name": "khetan" }, "geometry": { "type": "Point", "coordinates": [ 85.539614199700097, 27.619513435123693 ] } },
+{ "type": "Feature", "properties": { "FID": 14, "Id": 14, "Point_name": "BT" }, "geometry": { "type": "Point", "coordinates": [ 85.539821653729561, 27.619065771165364 ] } },
+{ "type": "Feature", "properties": { "FID": 15, "Id": 15, "Point_name": "Golo Ghar" }, "geometry": { "type": "Point", "coordinates": [ 85.539761601247349, 27.618749130804598 ] } },
+{ "type": "Feature", "properties": { "FID": 16, "Id": 16, "Point_name": "science" }, "geometry": { "type": "Point", "coordinates": [ 85.539221128907414, 27.618650863106428 ] } },
+{ "type": "Feature", "properties": { "FID": 17, "Id": 17, "Point_name": "library" }, "geometry": { "type": "Point", "coordinates": [ 85.538593307502452, 27.619267765878266 ] } },
+{ "type": "Feature", "properties": { "FID": 17, "Id": 17, "Point_name": "kufountainII" }, "geometry": { "type": "Point", "coordinates": [ 85.538653359984664, 27.618492542926045 ] } }
+]
+}

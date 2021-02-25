@@ -1,0 +1,30 @@
+{
+  "name": "chisma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html ",
+    "build": "parcel build --public-url . index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gulp-jsdoc3": "^3.0.0",
+    "js": "^0.1.0",
+    "ol": "^6.5.0",
+    "ol-ext": "^3.1.18",
+    "olcs": "^2.12.0",
+    "pannellum": "^2.5.6",
+    "panolens": "git+https://github.com/pchen66/panolens.js.git",
+    "three": "^0.105.2",
+    "vue-pannellum": "^0.5.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "parcel-bundler": "^1.12.4"
+  }
+}
